@@ -1,0 +1,5 @@
+alias pmv='/workspaces/autogrow4/mgltools_x86_64Linux2_1.5.6/bin/pmv'
+alias adt='/workspaces/autogrow4/mgltools_x86_64Linux2_1.5.6/bin/adt'
+alias vision='/workspaces/autogrow4/mgltools_x86_64Linux2_1.5.6/bin/vision'
+alias cadd='/workspaces/autogrow4/mgltools_x86_64Linux2_1.5.6/bin/cadd'
+alias pythonsh='/workspaces/autogrow4/mgltools_x86_64Linux2_1.5.6/bin/pythonsh'
